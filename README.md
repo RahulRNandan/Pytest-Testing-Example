@@ -1,9 +1,3 @@
-Ah, I see! You want to show the **credibility of the work** by including references and sources of information in your `README.md`. This will help show that the use of Pytest, the structure, and the testing methods used in the project are rooted in established and reliable knowledge.
-
-Here's how you can modify the **README.md** to include sources that establish the credibility of the Pytest framework and best practices:
-
----
-
 # Pytest Testing Example
 
 This project demonstrates a simple example of using **Pytest**, a robust and highly recommended testing framework in Python. Pytest is trusted by both large organizations and individual developers due to its ease of use, powerful features, and flexible integration with various workflows and tools.
