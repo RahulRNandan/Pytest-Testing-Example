@@ -37,9 +37,6 @@ Here’s the directory structure of the **Pytest Testing Example** project:
 ---
 
 ## Sources of Information
-
-To ensure the credibility of the testing framework and methodology used in this project, here are some respected sources:
-
 ### 1. **Official Pytest Documentation**
    - Pytest is widely regarded as one of the best testing frameworks for Python. The [official documentation](https://docs.pytest.org/en/stable/) provides comprehensive guides and references for using Pytest effectively.
    - **Key Insights**:
